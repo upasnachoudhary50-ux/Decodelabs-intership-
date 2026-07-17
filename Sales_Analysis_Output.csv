@@ -1,0 +1,9 @@
+sale_id,sale_date,product,category,region,quantity,revenue
+1,2026-01-05,Laptop,Electronics,North,2,120000.00
+2,2026-01-08,Phone,Electronics,South,5,150000.00
+3,2026-02-01,Chair,Furniture,North,4,20000.00
+4,2026-02-10,Desk,Furniture,West,2,30000.00
+5,2026-03-04,Headphones,Electronics,East,10,25000.00
+6,2026-03-11,Table,Furniture,South,3,45000.00
+7,2026-04-02,Monitor,Electronics,West,4,80000.00
+8,2026-04-14,Lamp,Furniture,East,6,18000.00
